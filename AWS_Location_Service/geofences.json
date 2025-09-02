@@ -1,0 +1,10 @@
+{
+    "CollectionName": "PetGeofence",
+    "CollectionArn": "arn:aws:geo:us-east-1:867344433481:geofence-collection/PetGeofence",
+    "Description": "It triggers alerts if the pet leaves the predefined area, ensuring real-time monitoring and security.",
+    "PricingPlan": "RequestBasedUsage",
+    "Tags": {},
+    "CreateTime": "2025-02-03T01:54:58.691000+00:00",
+    "UpdateTime": "2025-02-03T01:54:58.691000+00:00",
+    "GeofenceCount": 1
+}

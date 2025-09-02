@@ -1,0 +1,15 @@
+{
+    "MapName": "DeviceTrackerMap",
+    "MapArn": "arn:aws:geo:us-east-1:867344433481:map/DeviceTrackerMap",
+    "PricingPlan": "RequestBasedUsage",
+    "DataSource": "Esri",
+    "Configuration": {
+        "Style": "VectorEsriNavigation",
+        "CustomLayers": [
+            "POI"
+        ]
+    },
+    "Tags": {},
+    "CreateTime": "2025-01-28T15:16:42.867000+00:00",
+    "UpdateTime": "2025-01-28T15:16:42.867000+00:00"
+}

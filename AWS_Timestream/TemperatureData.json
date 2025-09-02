@@ -1,0 +1,26 @@
+{
+    "Table": {
+        "Arn": "arn:aws:timestream:us-east-1:867344433481:database/PetHealthMonitoring/table/TemperatureData",
+        "TableName": "TemperatureData",
+        "DatabaseName": "PetHealthMonitoring",
+        "TableStatus": "ACTIVE",
+        "RetentionProperties": {
+            "MemoryStoreRetentionPeriodInHours": 24,
+            "MagneticStoreRetentionPeriodInDays": 365
+        },
+        "CreationTime": "2025-02-04T19:26:31.067000+00:00",
+        "LastUpdatedTime": "2025-02-04T19:26:31.058000+00:00",
+        "MagneticStoreWriteProperties": {
+            "EnableMagneticStoreWrites": true
+        },
+        "Schema": {
+            "CompositePartitionKey": [
+                {
+                    "Type": "DIMENSION",
+                    "Name": "DeviceID",
+                    "EnforcementInRecord": "REQUIRED"
+                }
+            ]
+        }
+    }
+}

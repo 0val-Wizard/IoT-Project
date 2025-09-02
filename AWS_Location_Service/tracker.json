@@ -1,0 +1,11 @@
+{
+    "TrackerName": "DeviceTracker",
+    "TrackerArn": "arn:aws:geo:us-east-1:867344433481:tracker/DeviceTracker",
+    "Description": "",
+    "PricingPlan": "RequestBasedUsage",
+    "Tags": {},
+    "CreateTime": "2025-01-30T13:53:18.044000+00:00",
+    "UpdateTime": "2025-01-30T13:53:18.044000+00:00",
+    "PositionFiltering": "AccuracyBased",
+    "EventBridgeEnabled": true
+}
