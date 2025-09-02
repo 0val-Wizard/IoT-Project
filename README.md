@@ -1,7 +1,7 @@
 # IoT-Project
 - You can also read through my presentation slides for clearer summary.
 
-- Backgroud Context: IoT Application Development (IoT) is a Year 2 module in TP. Which covers the concepts of Distributed System Architecture like Service-Oriented Architecture, Representational State Transfer (REST) and Web Services, identification of technology and design principles for connected devices as well as prototyping techniques for developing web services.
+- **Backgroud Context**: IoT Application Development (IoT) is a Year 2 module in TP. Which covers the concepts of Distributed System Architecture like Service-Oriented Architecture, Representational State Transfer (REST) and Web Services, identification of technology and design principles for connected devices as well as prototyping techniques for developing web services.
 
 ## AWS Services Used;
 <img width="1432" height="856" alt="image" src="https://github.com/user-attachments/assets/94b96f88-d51d-4b74-a66e-a136a905a95b" />
